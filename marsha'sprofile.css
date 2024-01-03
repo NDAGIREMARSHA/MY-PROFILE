@@ -1,0 +1,76 @@
+.flowers{
+    height:720px;
+    width:650px;
+    background-color:whitesmoke;
+    margin:auto;
+}
+.pots{
+    height:120px;
+    width:650px;
+    background-color:rgb(215, 215, 215);
+    display:flex;
+    margin-top:10px;
+}
+.phone{
+    height:150px;
+    width:400px;
+    margin-top:10px;
+    margin-left:10px;
+}
+.plates{
+    margin-left:20px;
+}
+.cups{
+    margin-left:20px;
+}
+.cloth img{
+    border-radius:200px;
+    margin-left:60px;
+    margin-top:10px;
+    height: 180px;
+}
+.floor{
+    height:510px;
+    width:600px;
+    background-color:black;
+    margin-top:70px;
+    margin-left:25px;
+    display:flex;
+}
+.tiles{
+    height:510px;
+    width:260px;
+    background-color:whitesmoke;
+}
+.real{
+    height:510px;
+    width:340px;
+    background-color:whitesmoke;
+}
+.black{
+    color: rgb(107, 104, 104);
+    margin-left:10px;
+}
+.pink{
+    color:rgb(107, 104, 104);
+    margin-left:10px;
+}
+.home{
+    margin-left:10px;
+}
+.after{
+    content: none;
+    display: inline-block;
+    margin-right:1px;
+    margin-left:1px;
+    width:0;
+    height:0;
+    border-top:10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left:0px silver;
+}
+.body{
+    background:"c:\Users\marsha.ndagire\Downloads\OIP (2).jpeg"
+}
+
+
